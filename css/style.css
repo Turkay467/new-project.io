@@ -1,0 +1,136 @@
+body{
+    background-color: #d6d0cb;
+}
+
+.main{
+    width: 1260px;
+    height: 1235px;
+    background-color: grey;
+    margin-left: 43px;
+}
+.text-center{
+    color:#5a5656;
+    font-size:34px;
+    padding-top: 17px;
+    margin-bottom: 12px;
+}
+.head ul{
+    list-style:none;
+    margin-top: -7px;   
+}
+.head li{
+    float:left;
+   
+}
+.head li a{
+    padding: 20px;
+    color:#ccc;
+}
+.head{
+    border: 1px solid white;
+    background-color:white;
+    padding:24px;
+    width: 952px;
+}
+input{
+    float:right;
+    border:1px solid rgb(223, 214, 214);
+    padding: 8px;
+    margin-top:-7px;
+    position:relative;
+}
+input:focus{
+  border:none;
+}
+i.fa{
+    position:absolute;
+    right: 228px;
+    color: #ccc;
+}
+/* new section */
+.photo{
+    width: 952px;
+    height: 420px;
+    border:12px solid white;
+    margin-top: 13px;
+    margin-bottom: 18px;
+}
+ img{
+    width: 100%;
+    height:100%;
+}
+.photo1{
+    width: 210px;
+    height: 107px;
+    margin-bottom: 20px;
+}
+.list1,.list2,.list3,.list4{
+    border:10px solid white;
+    background-color:white;
+    height: 360px;
+    margin-right: 9px;
+    margin-bottom:14px;
+}
+.list1 p,.list2 p,.list3 p,.list4 p{
+    color: #ada6a0;
+    text-align:justify;
+    margin-bottom: 14px;
+    text-indent:25px;
+}
+.list1 a,.list2 a,.list3 a,.list4 a{
+    padding:174px !important;
+  color:grey;
+}
+/* new sectiopn */
+.view1,.view2,.view3,.view4{
+    width: 120px;
+    border: 8px solid white;
+    height:70px;
+}
+
+.welcome{
+    background-color:white;
+    border:10px solid white;
+    width: 952px;
+    height: 190px;
+}
+.site h1{
+    font-size: 19px;
+    padding-bottom: 8px;
+    padding: 4px;
+}
+.site p{
+    color:grey;
+    text-indent:25px;
+    padding:5px;
+  
+    word-spacing: -1px;
+}
+.site a{
+    padding:650px !important;
+    color:grey; 
+}
+/* footer */
+.service1 ul,.service2 ul{
+    list-style:none;
+    margin-top: 12px;
+}
+.service1 li,.service2 li {
+    display:inline;
+  
+}
+.service1 li a{
+    padding: 10px;
+   color:grey;
+}
+.end{
+    background-color:white;
+    border:10px solid white;
+    width: 952px;
+    height: 56px;
+    margin-top: 17px;
+}
+.service2 li a{
+    color:grey;
+    padding:5px;
+}
